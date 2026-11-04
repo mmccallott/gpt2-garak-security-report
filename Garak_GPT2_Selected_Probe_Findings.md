@@ -1,4 +1,5 @@
 # Testing Garak Probes on GPT-2
+<img width="1375" height="1000" alt="Web Icon " src="https://github.com/user-attachments/assets/03400317-e45c-4c3a-8658-841c891b0394" />
 
 ## Selected-probe findings and analysis
 
